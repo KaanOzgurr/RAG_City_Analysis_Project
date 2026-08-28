@@ -1,4 +1,4 @@
-# 🏙️ Know My City (Şehrimi Tanı)
+# 🏙️RAG_City_Analysis_Project
 
 **Istanbul Metropolitan Municipality Information Assistant — Offline RAG System**
 
