@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+data/sehrimi_tani.db
+data/scripts/inspect_output.txt
+data/scripts/test_results.json
+.env
+
+data/raw/ulasim/iett-hatlar.json

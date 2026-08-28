@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Şehrimi Tanı</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🏙️ Şehrimi Tanı</h1>
+    <p class="subtitle">İstanbul Büyükşehir Belediyesi Bilgi Asistanı (Offline)</p>
+
+    <div class="chat-box" id="chatBox"></div>
+
+    <div class="category-filters">
+      <button class="cat-btn active" data-cat="">Tümü</button>
+      <button class="cat-btn" data-cat="ulasim">🚌 Ulaşım</button>
+      <button class="cat-btn" data-cat="atik">🗑️ Atık</button>
+      <button class="cat-btn" data-cat="afet">🆘 Afet</button>
+      <button class="cat-btn" data-cat="yesil_alan">🌳 Yeşil Alan</button>
+      <button class="cat-btn" data-cat="enerji_sarj">⚡ Enerji</button>
+      <button class="cat-btn" data-cat="hava_kalitesi">💨 Hava Kalitesi</button>
+    </div>
+
+    <div class="input-area">
+      <input type="text" id="queryInput" placeholder="Bir soru sorun... (örn: Arnavutköy'den Tuzla'ya nasıl giderim)">
+      <button id="sendBtn">Sor</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
