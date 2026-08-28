@@ -108,6 +108,9 @@ Open `http://localhost:5500` in your browser.
 - Real pilot use with a local NGO or neighborhood administration (SDG 17 connection)
 - Admin panel for live document updates
 
-## 👤 Project Owner
+## 👤 Author
 
-This project was developed as the final project for the Microsoft Foundry Local Summer School program, with a focus on SDG 11.
+**Kaan Özgür**
+GitHub: [@KaanOzgurr](https://github.com/KaanOzgurr)
+
+Developed as the final project for the Microsoft Foundry Local Summer School program, with a focus on SDG 11.
